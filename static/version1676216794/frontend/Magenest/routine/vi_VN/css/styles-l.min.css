@@ -6764,7 +6764,7 @@ print {
         color: transparent
     }
     .product-fixtop .product-info-main .product-add-form-fixtop .swatch-opt .swatch-attribute.color .swatch-attribute-label:before {
-        content: "Chá»n mÃ u:";
+        content: "Chọn màu:";
         font-size: 14px;
         color: #000
     }
@@ -6779,7 +6779,7 @@ print {
         color: transparent
     }
     .product-fixtop .product-info-main .product-add-form-fixtop .swatch-opt .swatch-attribute.size .swatch-attribute-label:before {
-        content: "Chá»n size:";
+        content: "Chọn size:";
         font-size: 14px;
         color: #000
     }
@@ -6803,7 +6803,7 @@ print {
         display: inline !important
     }
     .product-fixtop .product-info-main .product-add-form-fixtop .box-tocart .label:before {
-        content: "Chá»n SL:"
+        content: "Chọn SL:"
     }
     .product-fixtop .product-info-main .product-add-form-fixtop .box-tocart .label span {
         display: none
@@ -6831,11 +6831,11 @@ print {
         display: none
     }
     .product-fixtop .product-info-main .product-add-form-fixtop .box-tocart .action.primary.tocart:before {
-        content: "THÃŠM VÃ€O";
+        content: "THÊM VÀO";
         display: block
     }
     .product-fixtop .product-info-main .product-add-form-fixtop .box-tocart .action.primary.tocart:after {
-        content: "GIá»Ž HÃ€NG"
+        content: "GIỎ HÀNG"
     }
     .product-fixtop .product-info-main .product-add-form-fixtop .box-tocart .action.primary.action-stock {
         width: 165px;
